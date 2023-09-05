@@ -1,0 +1,27 @@
+.Question {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+}
+  
+.Titlebar {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+  
+.Problem {
+    padding-bottom: 10px;
+}
+  
+.Tags {
+    font-size: 20px;
+}
+  
+.center-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+  
